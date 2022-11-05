@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Avuris
-- 👀 I’m interested in ... learning as much as possible in this space
-- 🌱 I’m currently learning ... javascript
-- 💞️ I’m looking to collaborate on ... nothing yet, too new
-- 📫 How to reach me ...
+- 👋 Hi, I’m Wesley
+- 👀 I’m interested in ... learning anything and everything
+- 🌱 I’m currently learning ... C# and other .NET tools
+- 📫 How to reach me ... Avuris#1004 on Discord
 
 <!---
 Avuris/Avuris is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
